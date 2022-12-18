@@ -1,2 +1,2 @@
 # linux-iac-project-1
-Files for the DIO Impulso DevOps AWS Bootcamp - IAC Project
+Bash script for provisioning creating of users, folders and change permissions on Linux. IaC project for DIO/Impulso DevOps AWS bootcamp. 
